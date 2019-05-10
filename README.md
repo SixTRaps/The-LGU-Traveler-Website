@@ -8,3 +8,5 @@ For the database part, we bought and used aliyun host, which has a database syst
 Data are gathered from www.ctrip.com
 
 The other two teammated of mine are: 黄琛， 何秉昊.
+
+You can visit www.lgutraveler.com to check our demo until the host and domain name expired.
